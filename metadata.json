@@ -1,0 +1,7 @@
+{
+  "name": "AmourPlan - AI Date Concierge",
+  "description": "A sophisticated AI-powered dating assistant that crafts personalized date recommendations based on location, personality, and social context.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
